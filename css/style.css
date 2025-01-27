@@ -32,6 +32,12 @@ h1{
     margin-bottom: 0%;
 }
 
+/*sottotitolo*/
+#sottotitolo{
+    margin-top: 0px;
+    margin-bottom: 30px;
+}
+
 /*tag <p> con colori diversi*/
 .sky-blue{
     color: #11accf;
