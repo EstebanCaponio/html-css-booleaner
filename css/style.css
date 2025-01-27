@@ -1,0 +1,12 @@
+.logo-img{
+    height: 30px;
+    text-align: inherit;
+}
+
+#logo{
+    background-image: url(../img/pattern.png);
+    background-size: 200px;
+    background-color:#007fff;
+    height: 60px;
+    width: auto;
+}
