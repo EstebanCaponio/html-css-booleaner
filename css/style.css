@@ -55,6 +55,11 @@ h1{
 }
 
 /*estetica tabella*/
+
+table{
+    border-collapse: collapse;
+}
+
 thead{
     background-color: #11accf;
     color: white;
