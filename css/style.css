@@ -37,3 +37,20 @@ thead{
 span{
     background-color: yellow;
 }
+
+
+#monitor{
+    color: white;
+    font-size: 25px;
+    width: 270px;
+    height: 200px;
+    background-image: url(../img/monitor.jpg);
+}
+
+#graph{
+    color: white;
+    font-size: 25px;
+    width: 270px;
+    height: 200px;
+    background-image: url(../img/graph.jpg);
+}
