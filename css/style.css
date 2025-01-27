@@ -19,3 +19,17 @@
 h1{
     font-size: 60px;
 }
+
+thead{
+    background-color: #11accf;
+    color: white;
+    text-align: left;
+}
+
+.riga{
+    width: 200px;
+}
+
+.tr-color{
+    background-color: rgb(132, 246, 246);
+}
