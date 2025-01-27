@@ -84,6 +84,9 @@ thead{
 #monitor{
     color: white;
     font-size: 25px;
+    font-weight: bold;
+    padding-top: 10px;
+    padding-left: 10px;
     width: 270px;
     height: 200px;
     background-image: url(../img/monitor.jpg);
@@ -92,6 +95,9 @@ thead{
 #graph{
     color: white;
     font-size: 25px;
+    font-weight: bold;
+    padding-top: 10px;
+    padding-left: 10px;
     width: 270px;
     height: 200px;
     background-image: url(../img/graph.jpg);
