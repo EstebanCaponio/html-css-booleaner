@@ -5,7 +5,7 @@ body{
     margin-right: 0px;
 }
 
-
+/*header*/
 .logo-img{
     height: 40px;
     padding-left: 200px;
@@ -19,6 +19,19 @@ body{
     width: auto;
 }
 
+/*margini laterali main + footer*/
+.margine-pagina{
+    padding-left: 200px;
+    padding-right: 200px;
+}
+
+/*titolo principale*/
+h1{
+    font-size: 50px;
+    margin-bottom: 0%;
+}
+
+/*tag <p> con colori diversi*/
 .sky-blue{
     color: #11accf;
 }
@@ -27,21 +40,13 @@ body{
     color: lightgray;
 }
 
-.margine-pagina{
-    padding-left: 200px;
-    padding-right: 200px;
-}
-
-h1{
-    font-size: 60px;
-    margin-bottom: 0%;
-}
-
+/*descrizione sotto le foto*/
 .sotto-foto{
    margin-top: 0px;
    font-size: 10px;
 }
 
+/*estetica tabella*/
 thead{
     background-color: #11accf;
     color: white;
@@ -57,11 +62,12 @@ thead{
     padding: 0%;
 }
 
+/*sottolineature gialle 2 lorem*/
 .underline{
     background-color: yellow;
 }
 
-
+/*immagini nel footer*/
 #monitor{
     color: white;
     font-size: 25px;
