@@ -29,6 +29,11 @@ h1{
     margin-bottom: 0%;
 }
 
+.sotto-foto{
+   margin-top: 0px;
+   font-size: 10px;
+}
+
 thead{
     background-color: #11accf;
     color: white;
@@ -41,6 +46,7 @@ thead{
 
 .tr-color{
     background-color: rgb(132, 246, 246);
+    padding: 0%;
 }
 
 .underline{
