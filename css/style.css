@@ -33,3 +33,7 @@ thead{
 .tr-color{
     background-color: rgb(132, 246, 246);
 }
+
+span{
+    background-color: yellow;
+}
